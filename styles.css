@@ -1,0 +1,25 @@
+body {
+    background-color: aquamarine;
+    font-family: Arial, sans-serif;
+    margin: 20px;
+  }
+  
+  #app {
+    max-width: 600px;
+    margin: 0 auto;
+  }
+  
+  form {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 20px;
+  }
+  
+  button {
+    margin-top: 10px;
+  }
+  
+  #transactions {
+    border-top: 1px solid #ccc;
+    padding-top: 20px;
+  }
